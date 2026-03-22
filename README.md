@@ -51,6 +51,11 @@ This project analyzes the impact of sleep, anxiety, and lifestyle factors on stu
 ![Sleep Boxplot](sleep_boxplot.png)
 
 ---
+## 🧠 Results Summary
+- Sleep and stress show a strong negative correlation (-0.83)
+- ANOVA confirms significant differences in stress across mental states
+- Multiple regression shows sleep and anxiety explain ~93% of stress variation
+- Stressed students have lower and more irregular sleep patterns
 
 ## 📁 Files
 
